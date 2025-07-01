@@ -22,7 +22,6 @@ basic_maths/
 
 ## 🚀 How to Run
 
-## 🚀 How to Run
 
 ```bash
 python basic_maths/filename.py
