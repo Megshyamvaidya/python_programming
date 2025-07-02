@@ -22,7 +22,11 @@ basic_maths/
 
 ## 🚀 How to Run
 
-## 🚀 How to Run
 
 ```bash
-python basic_maths/filename.py
+python basic_maths/filename.py 
+```
+
+Started fresh from: July 1, 2025
+Follow this repo for daily Python + DSA practice!
+---
