@@ -1,18 +1,35 @@
-# Python Programming – Basic Math DSA Problems
+# Python Programming – DSA Practice (Striver's SDE Sheet)
 
-This repository contains beginner-level math problems implemented using Python.  
-It's part of my journey to learn Data Structures and Algorithms (DSA) using the **Striver’s SDE Sheet**, solved in Python.
+This repository contains beginner to intermediate **Data Structures and Algorithms (DSA)** problems implemented in Python, following the **Striver’s SDE Sheet roadmap**.
 
-## Folder Structure
+---
+
+## 📂 **Folder Structure**
 basic_maths/
-├── count_digits.py
-├── reverse_number.py
-├── palindrome_check.py
-├── armstrong_number.py
-├── print_all_divisors.py
-├── gcd.py
+- count_digits.py
+- reverse_number.py
+- palindrome_check.py
+- armstrong_number.py
+- print_all_divisors.py
+- gcd.py
 
-## ✅ Topics Covered
+recursion/
+- factorial.py
+- fibonacci.py
+- recursion_basics.py
+- (add more recursion problems as you solve)
+
+hashing/
+- character_hashing.py
+- duplicates_array.py
+- count_freq.py
+- highest_lowest_elements.py
+
+---
+
+## ✅ **Topics Covered**
+
+### 🔢 **Basic Maths**
 - Number reversal
 - Digit counting
 - Palindrome check
@@ -20,13 +37,21 @@ basic_maths/
 - Finding all divisors
 - Euclidean algorithm for GCD
 
-## 🚀 How to Run
+### 🔁 **Recursion**
+- Factorial of a number
+- Fibonacci series
+- Understanding recursion basics
 
+### 🗂️ **Hashing**
+- Frequency count of characters
+- Detect duplicates in an array
+- Count frequency of elements
+- Find highest and lowest frequency elements
 
-```bash
-python basic_maths/filename.py 
-```
-
-Started fresh from: July 1, 2025
-Follow this repo for daily Python + DSA practice!
 ---
+
+## 🚀 **How to Run**
+
+To execute any solution:
+```bash
+python basic_maths/reverse_number.py
